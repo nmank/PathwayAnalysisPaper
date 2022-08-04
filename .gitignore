@@ -14,3 +14,4 @@ calcom_splits/entrez_ids/*
 *test*
 *weight_clustering.ipynb
 *__init__*
+*.ipynb_checkpoints*
