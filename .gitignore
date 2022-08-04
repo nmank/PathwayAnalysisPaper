@@ -3,7 +3,7 @@
 *old*
 experiments/.ipynb*
 *.vscode*
-mlruns/*
+*mlruns/*
 *__pycache__*
 experiments/temp*
 calcom_splits/entrez_ids/*
