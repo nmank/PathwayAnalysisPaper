@@ -2,13 +2,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+The code for Pathway Analysis submission to Scientific Reports.
 
 
 
@@ -23,8 +17,6 @@ See requirements.txt
 ## Usage
 
 Most experiments are run in the experiments directory.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -46,15 +38,12 @@ Most experiments are run in the experiments directory.
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -63,13 +52,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Nathan Mankovich - nathan.mankovich@gmail.com
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* Thanks to Eric Kehoe for his orthus package and for developing most of the code for this project. 
+* Thanks to Manucher Aminian for his calcom package.
 
