@@ -3,9 +3,9 @@
 #use this:   mlflow run . --entry-point svm --no-conda --experiment-id 1
 
 #nate added this import:
-import sys
-sys.path.append('/home/katrina/a/mankovic/')
-sys.path.append('/data4/mankovic/GSE73072/experiments/')
+# import sys
+# sys.path.append('/home/katrina/a/mankovic/')
+# sys.path.append('/data4/mankovic/GSE73072/experiments/')
 
 # imports
 import mlflow

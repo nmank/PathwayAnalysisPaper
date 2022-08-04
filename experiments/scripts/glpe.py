@@ -23,7 +23,7 @@ from typing import List, Tuple
 from sklearn.decomposition import PCA
 from sklearn.metrics import confusion_matrix
 
-sys.path.append('/home/katrina/a/mankovic/')
+sys.path.append('../../')
 from PathwayAnalysis.GLPE import CLPE, LPE
 import PathwayAnalysis
 

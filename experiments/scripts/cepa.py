@@ -14,12 +14,12 @@ import pandas as pd
 import numpy as np
 import mlflow
 import sys
-sys.path.append('/home/katrina/a/mankovic/PathwayAnalysis')
+sys.path.append('../../PathwayAnalysis')
 from GLPE import CLPE
 import os
 import itertools
 
-sys.path.append('/data4/mankovic/GSE73072/experiments/modules')
+sys.path.append('../modules')
 from utils import load_pathway_metadata, reformat_pathway_metadata
 
 
