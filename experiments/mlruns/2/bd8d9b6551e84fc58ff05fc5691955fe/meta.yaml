@@ -1,0 +1,15 @@
+artifact_uri: file:///data4/mankovic/GSE73072/experiments/mlruns/2/bd8d9b6551e84fc58ff05fc5691955fe/artifacts
+end_time: 1652224761018
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: bd8d9b6551e84fc58ff05fc5691955fe
+run_uuid: bd8d9b6551e84fc58ff05fc5691955fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1652224544033
+status: 3
+tags: []
+user_id: mankovic

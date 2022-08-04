@@ -1,0 +1,15 @@
+*.png
+*.csv
+*old*
+experiments/.ipynb*
+*.vscode*
+mlruns/*
+*__pycache__*
+experiments/temp*
+calcom_splits/entrez_ids/*
+*.txt
+*scratch.ipynb
+*.ipynb_checkpoints.*
+*egg*
+*test*
+*weight_clustering.ipynb
