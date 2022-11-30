@@ -15,3 +15,4 @@ calcom_splits/entrez_ids/*
 *weight_clustering.ipynb
 *__init__*
 *.ipynb_checkpoints*
+experiments_ifr*

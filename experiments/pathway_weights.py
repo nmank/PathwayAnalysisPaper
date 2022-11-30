@@ -113,7 +113,6 @@ if __name__ == '__main__':
         if p in best_cpe_pathways:
             cpe_show_ticks.append(ii)
         ii+=1
-    import IPython; IPython.embed()
     plt.figure(figsize=(12,5))
     sns.set(font_scale=1.4)
     s = sns.heatmap(data = cpe_heat_map, cmap = "rocket_r", xticklabels = True)

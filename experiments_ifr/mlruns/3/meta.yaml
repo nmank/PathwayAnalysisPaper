@@ -1,4 +1,0 @@
-artifact_location: file:///data4/mankovic/GSE73072/experiments/mlruns/3
-experiment_id: '3'
-lifecycle_stage: active
-name: compare-classifiers
